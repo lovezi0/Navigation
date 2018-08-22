@@ -5,7 +5,7 @@ function() {
 
     refreshContent();
 
-    setInterval(refreshContent, 10000);
+    //setInterval(refreshContent, 10000);
 
     function refreshContent() {
         $(function() {
