@@ -1,4 +1,14 @@
 # navigation
 Web Navigation system
 
-**private**
+## Declare
+- **private project**
+
+## Feature
+- html
+- css
+- js
+- images
+
+## RelyOn
+- layui
