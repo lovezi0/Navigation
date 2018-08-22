@@ -2,12 +2,6 @@ html,body {
     height: 100%;
     font-family: "Microsoft Yahei Light";
     margin: 0px auto;
-    /*background:url("../images/index_bg.jpg");
-    background-size: 85%;
-    background-attachment: fixed;
-    background-position: bottom left!important;
-    background-repeat: no-repeat;
-    background-color: #b1b2b4;*/
 }
 
 .windows {
@@ -16,7 +10,7 @@ html,body {
 }
 
 .img {
-    background:url("../images/index_bg.jpg");
+    background:url("../images/ow_bg.jpg");
     background-size: 85%;
     background-attachment: fixed;
     background-position: bottom left!important;
@@ -28,7 +22,7 @@ html,body {
 }
 
 .navigation {
-    background-color: #efefef;
+    background-color: #c5c8c7;
     float: left;
     height: 100%;
     width: 20%;
@@ -45,7 +39,6 @@ html,body {
 }
 
 .content {
-    font-family: "Microsoft Yahei Light";
     font-size:16px;
     color: #000;
     padding: 5px;
